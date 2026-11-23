@@ -9,7 +9,21 @@ server/       Spring Boot (Java 21) planner and API
 data-source/  recipe bank, store prices, and the script that builds the server's data
 ```
 
-## Run it
+## Run it on GitHub (Codespaces)
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/mattyhamps/meal-plan)
+
+1. Click the button above (or **Code › Codespaces › Create codespace on main** on the repo page).
+2. Wait for setup. The first time takes a few minutes while it installs packages and builds the app.
+3. The app opens in a new tab on port 8080. If it doesn't, open the **Ports** tab and click the globe next to "Meal Plan".
+
+While the codespace is running:
+- **After changing Java code:** run `bash scripts/start.sh` in the terminal to restart the server.
+- **After changing app code:** run `bash scripts/build-web.sh`, then reload the page.
+- **On your phone:** open the same port 8080 address. You'll need to be signed in to GitHub there, or set the port to Public in the Ports tab (right-click › Port Visibility) to share it with someone else.
+- The codespace stops after a while idle. Reopen it from **Code › Codespaces**; the server starts again on its own.
+
+## Run it on your computer
 
 You need Java 21 and Node 20+.
 

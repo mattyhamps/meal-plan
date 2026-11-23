@@ -2,7 +2,7 @@ import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import type { Choices, Plan, Settings, Slot } from './types';
 import { data, loadData, suggestedBudget } from './data';
-import { api, API_URL } from './api';
+import { api, API_LABEL } from './api';
 
 const KEY = 'mealplan:v1';
 
@@ -66,7 +66,7 @@ export function useApp() {
   const first = useRef(true);
 
   const fail = (e: unknown) =>
-    setError(`Can’t reach the planner server at ${API_URL}. Is it running? (${e instanceof Error ? e.message : String(e)})`);
+    setError(`Can’t reach the planner server at ${API_LABEL}. Is it running? (${e instanceof Error ? e.message : String(e)})`);
 
   const connect = useCallback(() => {
     loadData().then(() => { setDataReady(true); setError(null); }).catch(fail);

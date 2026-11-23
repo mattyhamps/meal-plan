@@ -1,8 +1,11 @@
 // Talks to the Java planner server (server/). Set EXPO_PUBLIC_API_URL to point somewhere else,
-// e.g. your computer's address on Wi-Fi when testing on a phone: http://192.168.1.20:8080
+// e.g. your computer's address on Wi-Fi when testing on a phone: http://192.168.1.20:8080.
+// An empty value means "the same address the app was loaded from" (the server serves the web app).
 import type { Choices, Generated, Meal, Plan, Price, Settings, Slot, SwapOption } from './types';
 
 export const API_URL = (process.env.EXPO_PUBLIC_API_URL ?? 'http://localhost:8080').replace(/\/$/, '');
+/** Where the server is, for messages. */
+export const API_LABEL = API_URL || (typeof window !== 'undefined' && window.location ? window.location.origin : 'this address');
 
 async function call<T>(path: string, body?: unknown): Promise<T> {
   const res = await fetch(API_URL + path, body === undefined ? undefined : {
