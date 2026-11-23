@@ -1,11 +1,12 @@
 {
   "expo": {
-    "name": "mealplan",
+    "name": "Meal Plan",
     "slug": "mealplan",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
+    "backgroundColor": "#F6F2EA",
     "ios": {
       "supportsTablet": true
     },

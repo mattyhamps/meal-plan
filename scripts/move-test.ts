@@ -1,0 +1,11 @@
+import { readFileSync } from 'node:fs';
+import { derive, defaultSettings, emptyChoices, moveDinner, DAYS } from '../src/planner';
+const data = { meals: JSON.parse(readFileSync('src/data/meals.json','utf8')), prices: JSON.parse(readFileSync('src/data/prices.json','utf8')) };
+const bowls = data.meals.find((m:any)=>m.name.startsWith('Mexican Chicken'))!.id;
+const pie = data.meals.find((m:any)=>m.name==='Mini Chicken Pot Pies')!.id;
+const s = defaultSettings(2, 115); s.slots.breakfast=Array(7).fill(false); s.slots.lunch=Array(7).fill(false); s.slots.dinner[4]=false;
+const c = emptyChoices(); c.dinner[0]=bowls; c.dinner[5]=pie; c.dinner[2]='beef-stir-fry';
+const show=(cc:any,ss:any,label:string)=>{const p=derive(cc,ss,data);console.log(label, p.cookAhead.map(a=>`${DAYS[a.day]}→${DAYS[a.forDay]} freeze=${a.freeze}`), 'dinners on:', ss.slots.dinner.map((x:boolean,i:number)=>x?DAYS[i]+':'+(cc.dinner[i]??'-').slice(0,10):'').filter(Boolean).join(' '))};
+show(c,s,'pie on Sat:');
+const r = moveDinner(c, s, 5, 2); show(r.choices, r.settings, 'moved to Wed:');
+const r2 = moveDinner(r.choices, r.settings, 2, 4); show(r2.choices, r2.settings, 'moved to Fri (was off):');

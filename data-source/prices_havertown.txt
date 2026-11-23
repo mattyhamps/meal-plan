@@ -1,0 +1,256 @@
+# key | package size | unit | package price | product picked (ACME Havertown, 2026-11-19)
+ground beef|1|lb|6.99|Signature Select 80/20 Ground Beef 1 lb
+ground turkey|1|lb|6.99|Signature Select 93/7 Ground Turkey 16 oz
+ground pork|1|lb|3.00|Hatfield Ground Pork Brick 16 oz
+italian sausage|1|lb|3.99|Premio Sweet Italian Sausage Meat 16 oz
+chorizo|1|lb|3.00|Hatfield Chorizo 16 oz
+breakfast sausage|1|lb|3.50|Jimmy Dean Pork Sausage Roll 16 oz
+chicken breast|3.5|lb|10.47|Chicken Breast Boneless Skinless value pack ($2.99/lb)
+chicken thighs boneless|2|lb|10.98|Open Nature Boneless Skinless Thighs 2 lb
+chicken thighs bone-in|4.5|lb|11.21|Signature Select Bone-In Thighs value pack ($2.49/lb)
+chicken cutlets|1.25|lb|9.36|Perdue Thin Sliced Chicken Breasts 1.25 lb
+chicken wings|3|lb|13.99|Signature Select Frozen Chicken Wings 48 oz
+rotisserie chicken|1|each|7.99|Signature Cafe Rotisserie Chicken
+pork chops|2|lb|10.00|Pork Chops Boneless 32 oz
+pork butt|7|lb|20.93|Pork Shoulder Picnic ($2.99/lb)
+steak|1|lb|10.99|USDA Choice Petite Sirloin 1 lb
+ribeye|1.5|lb|23.99|USDA Choice Boneless Ribeye 1.5 lb
+salmon|1.5|lb|11.99|Fresh Farmed Atlantic Salmon Fillet 1.5 lb
+shrimp|1|lb|9.99|Waterfront Bistro Raw Shrimp 31-40 1 lb
+canned tuna|5|oz|0.99|Chicken of the Sea Chunk Light 5 oz
+deli turkey|16|oz|7.99|Hillshire Farm Ultra Thin Turkey 16 oz
+prosciutto|3|oz|7.99|Primo Taglio Prosciutto 3 oz
+pepperoni|6|oz|3.49|Signature Select Sliced Pepperoni 6 oz
+frozen meatballs|26|oz|7.99|Rosina Home Style Meatballs 26 oz
+tofu|14|oz|2.99|O Organics Extra Firm Tofu 14 oz
+eggs|12|each|1.87|Lucerne Large Eggs 12 ct
+milk|128|fl oz|5.21|Lucerne Whole Milk 1 gal
+half and half|32|fl oz|3.79|Lucerne Half & Half 32 oz
+heavy cream|16|fl oz|3.99|Lucerne Heavy Cream 1 pint
+butter|16|oz|3.99|Lucerne Salted Butter 1 lb
+sour cream|16|oz|2.49|Lucerne Sour Cream 16 oz
+cream cheese|8|oz|2.50|Philadelphia Cream Cheese 8 oz
+greek yogurt|32|oz|5.49|Lucerne Plain Greek Yogurt 32 oz
+yogurt|32|oz|3.49|Lucerne Vanilla Yogurt 32 oz
+cheddar shredded|8|oz|2.49|Lucerne Shredded Cheddar 8 oz
+mexican cheese|8|oz|2.49|Lucerne Mexican Blend 8 oz
+mozzarella shredded|8|oz|2.49|Lucerne Shredded Mozzarella 8 oz
+fresh mozzarella|8|oz|5.99|BelGioioso Fresh Mozzarella 8 oz
+parmesan|8|oz|3.99|Signature Select Grated Parmesan 8 oz
+ricotta|15|oz|3.49|Galbani Whole Milk Ricotta 15 oz
+gouda|7.5|oz|3.79|Lucerne Smoked Gouda Slices 7.5 oz
+american cheese|24|slice|4.49|Lucerne American Slices 24 ct
+monterey jack|8|oz|2.49|Lucerne Shredded Monterey Jack 8 oz
+feta|5|oz|3.79|Frigo Crumbled Feta 5 oz
+halloumi|8.8|oz|11.99|Kynthos Halloumi 8.8 oz
+creme fraiche|8|oz|7.49|Vermont Creamery Creme Fraiche 8 oz
+crescent dough|8|oz|3.99|Pillsbury Crescent Dough Sheet 8 oz
+biscuit dough|16.3|oz|3.99|Pillsbury Grands! Biscuits 8 ct
+onion|1|each|1.34|Yellow onion (each, ~0.75 lb)
+red onion|1|each|1.49|Red onion (each)
+shallot|1|each|1.25|Shallot (each)
+garlic|1|each|0.99|Garlic bulb (about 10 cloves)
+ginger|1|each|1.25|Ginger root (piece, ~4 thumbs)
+scallions|1|bunch|1.99|Green onions (bunch of ~6)
+potatoes|5|lb|4.99|Signature Select Russet Potatoes 5 lb
+sweet potatoes|3|lb|3.99|Sweet Potatoes 3 lb bag
+carrots|2|lb|2.99|Carrots 2 lb bag
+shredded carrots|10|oz|1.99|Signature Select Shredded Carrots 10 oz
+celery|1|bunch|2.49|Celery (bunch, ~10 stalks)
+bell pepper|1|each|1.50|Green bell pepper (each)
+red bell pepper|1|each|1.99|Red bell pepper (each)
+jalapeno|1|each|0.75|Jalapeño (each)
+cubanelle pepper|1|each|0.75|Cubanelle pepper (each; stands in for long green pepper)
+zucchini|1|each|1.00|Zucchini (each)
+cucumber|1|each|0.99|Cucumber (each)
+mini cucumbers|6|each|3.99|Mini cucumbers 12 oz (~6)
+english cucumber|1|each|2.99|English cucumber (each)
+broccoli|1|each|2.24|Broccoli crown (each, ~12 oz)
+broccoli florets|12|oz|3.00|Signature Select Broccoli Florets 12 oz
+green beans|12|oz|3.00|Signature Select Green Beans 12 oz
+brussels sprouts|12|oz|3.99|Signature Select Brussels Sprouts 12 oz
+cauliflower|1|each|4.99|Cauliflower (head)
+eggplant|1|each|1.56|Eggplant (each)
+mushrooms|8|oz|2.29|Signature Select White Mushrooms 8 oz
+spinach|5|oz|3.00|Fresh Express Baby Spinach 5 oz
+arugula|5|oz|3.99|O Organics Baby Arugula 5 oz
+lettuce|3|each|5.99|Romaine hearts 3 ct
+coleslaw mix|14|oz|2.49|Signature Select Three Color Cole Slaw 14 oz
+red cabbage|8|oz|1.99|Fresh Express Shredded Red Cabbage 8 oz
+tomato|1|each|0.87|Roma tomato (each)
+grape tomatoes|10|oz|2.99|Signature Select Snacking Tomatoes 10 oz
+avocado|1|each|1.50|Hass avocado (each)
+lemon|1|each|0.99|Lemon (each)
+lime|1|each|0.99|Lime (each)
+banana|1|each|0.23|Banana (each)
+apple|1|each|1.25|Apple (each)
+granny smith|1|each|1.25|Granny Smith apple (each)
+pear|1|each|1.00|Pear (each)
+pineapple|20|oz|2.49|Signature Select Pineapple Chunks 20 oz can
+berries|16|oz|4.79|Signature Select Frozen Strawberries 16 oz
+cilantro|1|bunch|1.99|Cilantro (bunch, ~2 oz)
+parsley|1|bunch|1.99|Parsley (bunch, ~2 oz)
+dill|0.5|oz|2.99|O Organics Fresh Dill 0.5 oz
+basil|0.5|oz|2.99|O Organics Fresh Basil 0.5 oz
+thyme|0.5|oz|2.99|O Organics Fresh Thyme 0.5 oz
+rosemary|0.7|oz|4.99|O Organics Rosemary 0.7 oz
+mint|0.5|oz|2.99|O Organics Fresh Mint 0.5 oz
+guacamole|8|oz|4.49|Signature Select Traditional Guacamole 8 oz
+pico de gallo|12|oz|4.99|Pico de Gallo 12 oz
+salsa|16|oz|2.49|Signature Select Chunky Mild Salsa 16 oz
+salsa verde|24|oz|3.49|Signature Select Salsa Verde 24 oz
+jasmine rice|32|oz|3.99|Signature Select Jasmine Rice 2 lb
+white rice|32|oz|2.49|Signature Select Long Grain Rice 2 lb
+basmati rice|32|oz|5.99|Signature Select Basmati 2 lb
+arborio rice|16|oz|4.49|Bellino Arborio 16 oz
+sushi rice|32|oz|3.79|Signature Select Calrose Rice 2 lb
+quinoa|16|oz|4.49|O Organics Quinoa 16 oz
+red lentils|16|oz|2.29|Goya Red Lentils 16 oz
+pasta|12|oz|1.29|Signature Select Farfalle 12 oz
+cavatappi|16|oz|1.29|Signature Select Cavatappi 16 oz
+rotini|16|oz|1.29|Signature Select Rotini 16 oz
+orzo|16|oz|1.29|Signature Select Orzo 16 oz
+egg noodles|16|oz|2.79|Signature Select Wide Egg Noodles 16 oz
+lasagna noodles|12|oz|1.99|Signature Select Oven Ready Lasagna 12 oz
+ravioli|25|oz|6.99|Signature Select Portobello Mushroom Ravioli 25 oz
+ramen|1|packet|0.75|Maruchan Ramen 3 oz
+old fashioned oats|42|oz|5.49|Signature Select Old Fashioned Oats 42 oz
+quick oats|42|oz|5.49|Signature Select Quick Oats 42 oz
+cereal|18|oz|5.49|Cheerios Family Size 18 oz
+granola|12|oz|3.99|Open Nature Granola 12 oz
+pancake mix|32|oz|2.99|Signature Select Pancake Mix 32 oz
+flour|5|lb|2.79|Signature Select All Purpose Flour 5 lb
+panko|8|oz|2.49|Signature Select Panko 8 oz
+breadcrumbs|15|oz|2.49|Signature Select Bread Crumbs 15 oz
+sandwich bread|20|slice|1.49|Signature Select White Bread 20 oz (~20 slices)
+sourdough bread|16|slice|4.49|Rustik Oven Sourdough 16 oz (~16 slices)
+brioche buns|8|each|4.79|Brioche buns 8 ct
+potato buns|8|each|2.99|Signature Select Potato Rolls 8 ct
+ciabatta|4|each|2.99|Signature Select Ciabatta loaf 16 oz (cut into 4 rolls)
+baguette|1|each|0.99|French baguette (each)
+english muffins|6|each|3.50|Bays English Muffins 6 ct
+pitas|4|each|4.79|Joseph's Pita 4 ct
+flour tortillas|10|each|2.49|Signature Select Soft Taco Tortillas 10 ct
+large flour tortillas|8|each|2.49|Signature Select Burrito Tortillas 8 ct
+corn tortillas|30|each|3.49|Mission White Corn Tortillas 30 ct
+tortilla chips|11|oz|2.99|On the Border Cafe Style Chips 11 oz
+croutons|5|oz|1.99|Signature Select Croutons 5 oz
+belgian waffles|10|each|2.49|Signature Select Buttermilk Waffles 12.3 oz
+frozen mixed vegetables|32|oz|3.99|Signature Select Mixed Vegetables 32 oz
+frozen peas|32|oz|3.99|Signature Select Green Peas 32 oz
+frozen peas and carrots|32|oz|3.99|Signature Select Peas & Carrots 32 oz
+frozen corn|32|oz|3.99|Signature Select Whole Kernel Corn 32 oz
+frozen diced potatoes|32|oz|3.79|Signature Select Diced Hash Browns 32 oz
+frozen cauliflower rice|12|oz|1.99|Signature Select Riced Cauliflower 12 oz
+black beans|15|oz|1.29|Signature Select Black Beans 15 oz
+chickpeas|15|oz|1.29|Signature Select Garbanzo Beans 15 oz
+diced tomatoes|14.5|oz|1.29|Signature Select Diced Tomatoes 14.5 oz
+fire roasted tomatoes|14.5|oz|1.29|Signature Select Fire Roasted Diced 14.5 oz
+crushed tomatoes|28|oz|1.67|Tuttorosso Crushed Tomatoes 28 oz
+tomato sauce|15|oz|1.29|Signature Select Tomato Sauce 15 oz
+tomato paste|6|oz|1.29|Signature Select Tomato Paste 6 oz
+marinara|25|oz|2.49|Signature Select Marinara 25 oz
+pizza sauce|14|oz|2.49|Signature Select Pizza Sauce 14 oz
+coconut milk|13.5|fl oz|1.99|Signature Select Coconut Milk 13.5 oz
+bamboo shoots|||NOT FOUND|Not found online at Havertown; swap water chestnuts ($1.99 / 8 oz)
+roasted red peppers|12|oz|2.49|Signature Select Fire Roasted Red Peppers 12 oz
+sun dried tomatoes|7|oz|4.99|Signature Select Sun Dried Tomatoes 7 oz
+cream of mushroom soup|10.5|oz|1.29|Signature Select Cream of Mushroom 10.5 oz
+cream of chicken soup|10.5|oz|1.29|Signature Select Cream of Chicken 10.5 oz
+tomato soup|10.75|oz|1.49|Campbell's Tomato Soup 10.75 oz
+chicken broth|32|fl oz|1.99|Signature Select Chicken Broth 32 oz
+vegetable broth|32|fl oz|2.00|Swanson Vegetable Broth 32 oz
+bouillon paste|8|oz|7.49|Better Than Bouillon Roasted Chicken 8 oz (~38 tsp)
+beef bouillon paste|8|oz|7.49|Better Than Bouillon Roasted Beef 8 oz
+vegetable bouillon paste|8|oz|7.49|Better Than Bouillon Vegetable 8 oz
+mushroom bouillon|||NOT FOUND|Mushroom base not carried; use vegetable bouillon paste
+soy sauce|10|fl oz|2.29|Signature Select Soy Sauce 10 oz
+sesame oil|5|fl oz|3.99|Signature Select Sesame Oil 5 oz
+rice vinegar|12.5|fl oz|2.79|Signature Select Seasoned Rice Vinegar 12.5 oz
+balsamic vinegar|16.9|fl oz|4.49|Signature Select Balsamic 16.9 oz
+red wine vinegar|12.5|fl oz|2.79|Signature Select Red Wine Vinegar 12.5 oz
+white wine vinegar|12.5|fl oz|2.79|Signature Select White Wine Vinegar 12.5 oz
+cider vinegar|16|fl oz|2.49|Signature Select Apple Cider Vinegar 16 oz
+mirin|12|fl oz|4.49|Mizkan Mirin 12 oz
+fish sauce|6.76|fl oz|5.49|Thai Kitchen Fish Sauce 6.76 oz
+sriracha|17|oz|6.49|Huy Fong Sriracha 17 oz
+hot sauce|5|fl oz|3.79|Frank's RedHot Original 5 oz
+buffalo sauce|16|fl oz|3.99|Sweet Baby Ray's Buffalo Wing Sauce 16 oz
+bbq sauce|18|oz|1.99|Signature Select BBQ Sauce 18 oz
+worcestershire|10|fl oz|2.99|Signature Select Worcestershire 10 oz
+sweet soy glaze|11.8|oz|3.99|Kikkoman Teriyaki Baste & Glaze 11.8 oz (sweet soy glaze not listed; closest match)
+ponzu|10|fl oz|2.99|Signature Select Ponzu 10 oz
+sweet chili sauce|10.1|fl oz|3.49|Signature Select Sweet Chili Sauce 10.1 oz
+red curry paste|4.5|oz|3.49|Signature Select Thai Red Curry Paste 4.5 oz
+gochujang|||NOT FOUND|Not found; use sriracha + miso, or skip (Beef Stir Fry also lists doubanjiang)
+mayonnaise|30|fl oz|3.99|Signature Select Mayonnaise 30 oz
+dijon mustard|12|oz|2.79|Signature Select Dijon 12 oz
+whole grain mustard|12|oz|2.79|Signature Select Coarse Mustard 12 oz
+yellow mustard|8|oz|1.29|Signature Select Yellow Mustard 8 oz
+honey dijon dressing|16|fl oz|2.99|Ken's Honey Mustard 16 oz
+ranch dressing|16|fl oz|2.49|Signature Select Ranch 16 oz
+caesar dressing|16|fl oz|2.49|Signature Select Caesar 16 oz
+italian dressing|16|fl oz|2.49|Signature Select Lite Italian 16 oz
+blue cheese dressing|16|fl oz|2.49|Signature Select Blue Cheese 16 oz
+hummus|8|oz|3.00|Cedars Classic Hummus 8 oz
+peanut butter|28|oz|4.99|Signature Select Creamy Peanut Butter 28 oz
+jelly|18|oz|2.99|Signature Select Grape Jelly 18 oz
+fig jam|10|oz|5.99|DeLallo Fig Spread 10 oz
+red pepper jelly|15.5|oz|5.99|Melinda's Pepper Preserves 15.5 oz
+honey|12|oz|3.99|Signature Select Honey Bear 12 oz
+maple syrup|12.5|fl oz|8.49|Signature Select Pure Maple Syrup 12.5 oz
+balsamic glaze|7.95|fl oz|4.79|Signature Select Balsamic Glaze 7.95 oz
+olive oil|16.9|fl oz|6.99|Signature Select Extra Virgin Olive Oil 16.9 oz
+vegetable oil|48|fl oz|3.99|Signature Select Vegetable Oil 48 oz
+coconut oil|14|fl oz|5.99|O Organics Coconut Oil 14 oz
+cooking spray|6|oz|2.99|Signature Select Canola Cooking Spray 6 oz
+sugar|4|lb|3.49|Domino Granulated Sugar 4 lb
+brown sugar|16|oz|1.99|Signature Select Light Brown Sugar 1 lb
+powdered sugar|16|oz|1.99|Signature Select Powdered Sugar 1 lb
+baking soda|16|oz|0.99|Signature Select Baking Soda 16 oz
+baking powder|8.1|oz|1.99|Signature Select Baking Powder 8.1 oz
+yeast|3|packet|1.49|Yeast packets 3 ct
+cornstarch|16|oz|2.29|Signature Select Corn Starch 16 oz
+vanilla|1|fl oz|3.49|McCormick Pure Vanilla 1 oz
+chocolate chips|12|oz|3.99|Overjoyed Semi Sweet Chips 12 oz
+pecans|8|oz|6.99|Chopped pecans 8 oz
+peanuts|16|oz|3.00|Planters Dry Roasted Peanuts 16 oz
+cashews|9|oz|6.99|Regal Raw Cashews 9 oz
+pistachios|6|oz|6.99|Signature Select Pistachios 6 oz
+sliced almonds|6|oz|5.79|Open Nature Sliced Almonds 6 oz
+dried cranberries|6|oz|2.50|Craisins 6 oz
+sesame seeds|2.2|oz|4.99|O Organics Sesame Seed 2.2 oz
+nori|0.77|oz|5.49|Blue Dragon Sushi Nori (~10 sheets)
+crispy fried onions|6|oz|3.49|Signature Select French Fried Onions 6 oz
+salt|26|oz|1.99|Signature Select Iodized Salt 26 oz
+black pepper|3|oz|3.99|Signature Select Ground Black Pepper 3 oz
+garlic powder|3.12|oz|2.99|Signature Select Garlic Powder 3.12 oz
+onion powder|2.62|oz|2.79|Signature Select Onion Powder 2.62 oz
+paprika|2.12|oz|2.99|Signature Select Paprika 2.12 oz
+smoked paprika|1.6|oz|4.99|O Organics Smoked Paprika 1.6 oz
+chili powder|2.5|oz|2.99|Signature Select Chili Powder 2.5 oz
+cumin|2|oz|2.99|Signature Select Ground Cumin 2 oz
+coriander|1.6|oz|4.99|O Organics Ground Coriander 1.6 oz
+turmeric|1.8|oz|4.99|O Organics Ground Turmeric 1.8 oz
+cinnamon|2.37|oz|3.79|Signature Select Ground Cinnamon 2.37 oz
+ground ginger|1.6|oz|4.99|O Organics Ground Ginger 1.6 oz
+oregano|0.75|oz|2.99|Signature Select Oregano 0.75 oz
+basil dried|0.62|oz|2.99|Signature Select Basil 0.62 oz
+thyme dried|0.6|oz|4.99|O Organics Thyme 0.6 oz
+italian seasoning|0.75|oz|2.99|Signature Select Italian Seasoning 0.75 oz
+red pepper flakes|1.5|oz|2.49|Signature Select Crushed Red Pepper 1.5 oz
+cayenne|1.87|oz|2.99|Signature Select Cayenne 1.87 oz
+celery salt|2.5|oz|5.99|McCormick Celery Salt 2.5 oz
+poultry seasoning|0.65|oz|6.39|McCormick Poultry Seasoning 0.65 oz
+dry mustard|1.75|oz|2.79|Signature Select Ground Mustard 1.75 oz
+allspice|0.9|oz|7.39|McCormick Ground Allspice 0.9 oz
+caraway|1.8|oz|4.99|O Organics Caraway Seed 1.8 oz
+liquid smoke|4|fl oz|3.49|Colgin Liquid Smoke 4 oz
+chipotle in adobo|7|oz|2.79|Embasa Chipotles in Adobo 7 oz
+cocoa powder|8|oz|4.99|Signature Select Cocoa 8 oz
+white wine|16|fl oz|3.99|Holland House White Cooking Wine 16 oz
+sherry|16|fl oz|3.99|Holland House Sherry Cooking Wine 16 oz
+lime leaves|||NOT FOUND|Not carried; use lime zest
+thai basil|0.5|oz|2.99|Regular basil (Thai basil not listed)
+pomegranate|8|oz|5.79|Signature Select Pomegranate Arils 8 oz
+grapes|2|lb|5.98|Red Seedless Grapes 2 lb
