@@ -1,6 +1,6 @@
-"""Rebuild src/data/*.json from recipe-bank.json and the ACME Havertown price list.
+"""Rebuild the server's data (server/src/main/resources/data/*.json) from recipe-bank.json and the ACME Havertown price list.
 
-Run from this folder:  python3 export_app_data.py
+Run from anywhere:  python3 data-source/export_app_data.py
 """
 import json
 import os
@@ -10,7 +10,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 os.chdir(HERE)
 exec(open('cost.py').read())  # defines P, need_in_pkg_units, ingredient_cost
 
-OUT = os.path.join(HERE, '..', 'src', 'data')
+OUT = os.path.join(HERE, '..', 'server', 'src', 'main', 'resources', 'data')
 d = json.load(open('recipe-bank.json'))
 
 AISLE = {}

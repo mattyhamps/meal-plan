@@ -42,3 +42,6 @@ yarn-error.*
 
 # single-file web build for the artifact
 web-single/
+
+# Java build output
+target/

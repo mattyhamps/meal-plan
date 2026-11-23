@@ -2,9 +2,9 @@
 
 ## Next up: your picks
 - **Favorite recipes.** Let people mark recipes they like (a heart on the recipe page or in Swap). Favorites show up more often in new plans.
-  - Planner idea: add a weight in `randomChoices` and a small bonus in `objective()`, so favorites win ties without blowing the budget.
+  - Planner idea: add a weight in `Generator.randomChoices` and a small bonus in `Generator.objective`, so favorites win ties without blowing the budget.
 - **"I'm in the mood for…" (must include).** Let people pin a recipe so the next plan always includes it, on a day they pick or any day.
-  - Planner idea: fill pinned meals first in `randomChoices`, and never let `improve()` swap them out. Clear pins after the plan is made, or ask.
+  - Planner idea: fill pinned meals first in `Generator.randomChoices`, and never let `Generator.improve` swap them out. Clear pins after the plan is made, or ask.
   - If a pinned meal pushes the plan over budget, say so instead of dropping it.
 
 ## Deferred from v1 scoping
@@ -20,3 +20,4 @@
 - "Choose any" meal list in Swap (beyond the 3 suggestions)
 - Same breakfast every day setting
 - App Store release (needs an Apple developer account and EAS Build)
+- Host the Java server online (so the app works away from your Wi-Fi), with accounts and sync
